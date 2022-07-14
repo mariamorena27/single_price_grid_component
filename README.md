@@ -13,8 +13,8 @@
 ## Web Version / Mobile Version
 
 <p align="center">
-  <img alt="Single Price Grid Component" src="assets/desktop.png" width="65%" height="450px">
-  <img alt="Single Price Grid Component" src="assets/mobile.png" width="20%" height="450px">
+  <img alt="Single Price Grid Component" src="assets/desktop.png" width="65%" height="390px">
+  <img alt="Single Price Grid Component" src="assets/mobile.png" width="20%" height="390px">
 </p>
 
 ---
